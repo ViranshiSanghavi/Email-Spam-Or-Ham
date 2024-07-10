@@ -33,4 +33,5 @@
 <H1>Video Demo</H1>
 https://github.com/ViranshiSanghavi/Email-Spam-Or-Ham/assets/149748640/68ed4405-c6de-475f-8815-bf66e7c18ed8
 <H1>Contact</H1>
-For any queries or issues, please contact sanghaviviranshi@gmail.com
+For any queries or issues, please contact 
+Email   : sanghaviviranshi@gmail.com
