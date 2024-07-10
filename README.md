@@ -30,8 +30,15 @@
   <li>Follow the Google's security guidelines for accessing Gmail via IMAP.</li>
   <li>Use the Gmail app password created in your Google account security settings for authentication.</li>
 </ul>
+<H1>Image Preview</H1>
+<p float="left">
+  <img src="".png" width="300" />
+  <img src="path/to/photo2.png" width="300" /> 
+  <img src="path/to/photo3.png" width="300" />
+</p>
 <H1>Video Demo</H1>
 <video width="320" height="240" controls>
   <source src="https://github.com/ViranshiSanghavi/Email-Spam-Or-Ham/assets/149748640/d5dd6dfa-950c-4153-a79f-882928f7d125.mp4" type="video/mp4">
 </video>
+
 
