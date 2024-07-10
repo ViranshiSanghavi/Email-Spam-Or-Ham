@@ -1,4 +1,4 @@
-<H1>Email Spam or Han Detection📧</H1>
+<H1>Email Spam or Ham Detection📧</H1>
 <p>This project classifies emails as spam or ham using AI and the Gmail API. The user interface is built with Streamlit, allowing users to fetch and display emails in a table format.</p>
 <H1>Features</H1>
 <p>
