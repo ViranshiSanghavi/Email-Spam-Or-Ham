@@ -31,6 +31,7 @@
   <li>Use the Gmail app password created in your Google account security settings for authentication.</li>
 </ul>
 <H1>Video Demo</H1>
-https://github.com/ViranshiSanghavi/Email-Spam-Or-Ham/assets/149748640/d5dd6dfa-950c-4153-a79f-882928f7d125
-
+<video width="320" height="240" controls>
+  <source src="https://github.com/ViranshiSanghavi/Email-Spam-Or-Ham/assets/149748640/d5dd6dfa-950c-4153-a79f-882928f7d125.mp4" type="video/mp4">
+</video>
 
